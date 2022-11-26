@@ -1,5 +1,8 @@
 # Ray Tracer
 
+“Everyone should write a ray tracer at least once” - Matt Booty, Head of Xbox Game Studios @ Microsoft
+
+
 ## Completed stages
 
 ##### Stage 1

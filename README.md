@@ -2,7 +2,7 @@
 
 “Everyone should write a ray tracer at least once” - Matt Booty, Head of Xbox Game Studios @ Microsoft
 
-This is the project 1 for subject COMP30026 in semester 2 2022.
+This is the project 1 for subject COMP30019 Graphics and Interaction in semester 2 2022.
 
 ## Completed stages
 
